@@ -53,11 +53,14 @@ section:nth-of-type(3) {
   background-color: white;
   margin: .5rem;
   border-radius: 10px;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.16), 0 1px 3px rgba(0,0,0,0.23);
 }
 
 section div div p {
   padding: .5rem 1rem;
+}
+
+section div div img{
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
