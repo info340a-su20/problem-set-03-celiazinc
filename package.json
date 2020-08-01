@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cheerio": "^1.0.0-rc.2",
+    "cheerio": "^1.0.0-rc.3",
     "css": "^2.2.3",
     "inline-css": "^2.4.0",
     "jest-style-matchers": "^0.1.1",
